@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4752988271263160}
   - component: {fileID: 111723803834384152}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Car_TAXI_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37,7 +37,7 @@ GameObject:
   - component: {fileID: 4729213420453670}
   - component: {fileID: 33614002112401004}
   - component: {fileID: 23141063863313402}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Tire_Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 4993325367301778}
   - component: {fileID: 33362885167192430}
   - component: {fileID: 23341757234479254}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Tire_Rear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 4542869205876016}
   - component: {fileID: 33027419272430020}
   - component: {fileID: 23050210925452062}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 33071545356313736}
   - component: {fileID: 65985299640877006}
   - component: {fileID: 23414862056790258}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Collider_Crouch
   m_TagString: Collider/Crouch
   m_Icon: {fileID: 0}

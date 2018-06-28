@@ -37,6 +37,9 @@ TagManager:
   - Enemy/VisionCone
   - Capsule/InputQuery
   - Enemy/PlayerProximity
+  - Log
+  - Tree
+  - Capsule/ScoreNeeded
   layers:
   - Default
   - TransparentFX
@@ -47,9 +50,9 @@ TagManager:
   - 
   - 
   - Collider
-  - Collider
-  - 
-  - 
+  - Colider1
+  - Player
+  - Cover
   - 
   - 
   - 

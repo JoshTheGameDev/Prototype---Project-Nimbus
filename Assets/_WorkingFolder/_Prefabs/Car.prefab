@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4722452510869750}
   - component: {fileID: 33297676044547868}
   - component: {fileID: 23092698761427282}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39,7 +39,7 @@ GameObject:
   - component: {fileID: 33004338292022368}
   - component: {fileID: 65706980271682170}
   - component: {fileID: 23450746464409994}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Collider_Crouch
   m_TagString: Collider/Crouch
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 4514657794815780}
   - component: {fileID: 33890865925595200}
   - component: {fileID: 23616679068813076}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Tire_Front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4813942353088160}
   - component: {fileID: 111963879065358722}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Car_Sedan_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 4530110976212950}
   - component: {fileID: 33334143751992466}
   - component: {fileID: 23056603331057046}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Tire_Rear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1491281292906078}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 72, y: 1, z: 0}
+  m_LocalPosition: {x: 45, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4813942353088160}
