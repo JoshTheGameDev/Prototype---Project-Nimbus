@@ -3,12 +3,40 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: [Enemy/Collide, Enemy/FirePoint, Enemy/Enemy, Enemy/Waypoints, Enemy/Bullet,
-    Player/ProximityCheck, Player/PlayerHead, Player/LookPos, Collider/Crouch, Player/PLookPos,
-    Level, Characters, Collider/RotateLevel, Collider/EndLevel, Enemy/VisionCone,
-    Player/Body, Enemy/Collide, Enemy/FirePoint, Enemy/Enemy, Enemy/Waypoints, Enemy/Bullet,
-    Player/ProximityCheck, Player/PlayerHead, Player/LookPos, Collider/Crouch, Player/PLookPos,
-    Level, Characters, Collider/RotateLevel, Collider/EndLevel, Enemy/VisionCone]
+  tags:
+  - Enemy/Collide
+  - Enemy/FirePoint
+  - Enemy/Enemy
+  - Enemy/Waypoints
+  - Enemy/Bullet
+  - Player/ProximityCheck
+  - Player/PlayerHead
+  - Player/LookPos
+  - Collider/Crouch
+  - Player/PLookPos
+  - Level
+  - Characters
+  - Collider/RotateLevel
+  - Collider/EndLevel
+  - Enemy/VisionCone
+  - Player/Body
+  - Enemy/Collide
+  - Enemy/FirePoint
+  - Enemy/Enemy
+  - Enemy/Waypoints
+  - Enemy/Bullet
+  - Player/ProximityCheck
+  - Player/PlayerHead
+  - Player/LookPos
+  - Collider/Crouch
+  - Player/PLookPos
+  - Level
+  - Characters
+  - Collider/RotateLevel
+  - Collider/EndLevel
+  - Enemy/VisionCone
+  - Capsule/InputQuery
+  - Enemy/PlayerProximity
   layers:
   - Default
   - TransparentFX
@@ -20,7 +48,6 @@ TagManager:
   - 
   - Collider
   - Collider
-  - 
   - 
   - 
   - 
